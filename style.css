@@ -69,3 +69,6 @@ body{
       
       width:250px;
   }
+img:hover{
+    transform:scale(0.9);
+}
